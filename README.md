@@ -15,7 +15,7 @@ Screenshot Tool is a simple Chrome extension that allows you to capture screensh
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/Fatumayattani/screen_extension.git
-    cd screenshot-tool-extension
+    cd screen_extension
     ```
 
 2. **Install Dependencies**:
