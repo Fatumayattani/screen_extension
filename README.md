@@ -65,7 +65,7 @@ To make changes or improvements to the Screenshot Tool:
     npm start
     ```
 
-   This will start the React app in development mode at [http://localhost:3000](http://localhost:3000).
+   This will start the React app in development mode
 
 2. **Rebuild and Reload in Chrome**:
    After making changes, rebuild the extension using `npm run build`. Then, reload the extension in `chrome://extensions/` by clicking **Reload** under the Screenshot Tool.
